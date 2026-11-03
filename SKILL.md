@@ -1,5 +1,5 @@
----
-name: obsidian-source-of-truth
+﻿---
+name: vault
 description: Use to search, read, update or create notes in an Obsidian vault treated as the single source of truth, including notes in other local folders, and to plan consolidating them into one vault.
 ---
 
